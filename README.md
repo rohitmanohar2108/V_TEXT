@@ -104,27 +104,6 @@ VITE_STREAM_API_KEY=your_stream_api_key_here
 VITE_BACKEND_URL=http://localhost:3000
 ```
 
-### 4. Getting API Keys
-
-#### GetStream.io Setup
-
-1. Sign up at [GetStream.io](https://getstream.io/chat/trial/)
-2. Create a new Chat application
-3. Copy your **API Key** and **API Secret** from the dashboard
-4. Use the same **API Key** in both backend and frontend `.env` files
-
-#### OpenAI API Setup
-
-1. Sign up at [OpenAI Platform](https://platform.openai.com/)
-2. Navigate to API Keys section
-3. Create a new API key
-4. Add it to your backend `.env` file
-
-#### Tavily API Setup
-
-1. Sign up at [Tavily](https://tavily.com/)
-2. Get your API key from the dashboard
-3. Add it to your backend `.env` file
 
 ## 🚀 Running the Application
 
