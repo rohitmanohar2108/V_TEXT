@@ -30,15 +30,8 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 - **Tailwind CSS** + **shadcn/ui** for modern styling
 - **Vite** for fast development and building
 
-## 📋 Prerequisites
 
-- Node.js 20 or higher
-- npm or yarn package manager
-- GetStream.io account (free tier available)
-- OpenAI API account
-- Tavily API account (for web search)
 
-## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
 
