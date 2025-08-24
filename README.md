@@ -299,25 +299,6 @@ npm run build
 - **React Hook Form** - Form handling
 - **React Router** - Navigation
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support and questions:
-
-- Check the [GetStream.io Documentation](https://getstream.io/chat/docs/)
-- Review [OpenAI API Documentation](https://platform.openai.com/docs)
-- Create an issue in this repository
 
 ---
 
